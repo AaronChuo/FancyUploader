@@ -1,0 +1,44 @@
+{
+  "name": "FancyUploader",
+  "version": "1.0.0",
+  "description": "Image uploader implementations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronChuo/playground-api.git"
+  },
+  "author": "Aaron Chuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronChuo/playground-api/issues"
+  },
+  "homepage": "https://fancyuploader.herokuapp.com/",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.4",
+    "formidable": "^1.0.15"
+  },
+  "devDependencies": {
+    "browser-sync": "^1.7.2",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-compass": "^2.0.3",
+    "gulp-csso": "^0.2.9",
+    "gulp-jshint": "^1.9.0",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-notify": "^2.1.0",
+    "gulp-protractor": "0.0.12",
+    "gulp-rename": "^1.2.0",
+    "gulp-size": "^1.1.0",
+    "gulp-uglify": "^1.0.2",
+    "jshint-stylish": "^1.0.0",
+    "require-dir": "^0.1.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

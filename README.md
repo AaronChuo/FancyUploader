@@ -1,4 +1,4 @@
-FancyUploader
-=============
+playground-api
+==============
 
-Image uplooader implementations.
+For node server testing and play sample code.
